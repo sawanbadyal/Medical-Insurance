@@ -8,7 +8,7 @@
 
 **Batch Number:** 1A
 
-**Email ID:** sawanpreet.23bce10793@vitbhopal.ac.in
+**Email ID:** sawanpreet.23bai10793@vitbhopal.ac.in
 
 ## Objective
 The objective of this project is to develop a Multiple Linear Regression model to estimate medical insurance charges based on individual health and personal features.
